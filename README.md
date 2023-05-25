@@ -1,2 +1,2 @@
 # permission
-Pro kontrol fikri
+Pro port 443/80
